@@ -13,3 +13,7 @@ on hamburgers.  When you add the hamburger to the grill press the start
 button.  After the the time is down to 0 flip the burger and press the 
 flip button.  If it doesn't look right the extra time window will 
 keep track of how much extra time you use.
+
+2021.06.30 - Javascript version is on hold.  It turns out that the timer stops when
+the android screen blanks.  Doing a python version that will run on the
+laptop.
